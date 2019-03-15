@@ -553,7 +553,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
-> This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size. 
+> This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
 
 ![Import Cost Screenshot](https://file-wkbcnlcvbn.now.sh/import-cost.gif)
 
@@ -1143,6 +1143,7 @@ A list of Twitter accounts for various people in the VS Code Community
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - The Better Comments extension will help you create more human-friendly comments in your code.
 - [Extending Visual Studio Code](https://code.visualstudio.com/docs/extensions/overview) section of [Official Documentation](https://code.visualstudio.com/docs)
 
+- [Is Your VS Code Extension Slow? Here's How to Speed it Up!](https://johnpapa.net/is-your-vs-code-extension-slow-heres-how-to-speed-it-up/) - Article going over how to optimize your VS Code extension for performance by John Papa.
 ## Libraries
 
 - [vscode-extension-vscode](https://github.com/Microsoft/vscode-extension-vscode) - The vscode.d.ts node module
